@@ -3,8 +3,10 @@ RENCANA FREELANCE KURCACINE
 - Desain Logo
   * Word Mark Logo
   * Emblem Logo
+    ^ Logo Kafe
+    ^ Logo E-Sport
 - Desain UI/UX
 - Desain Web
 - Desain Apparel
-- Desain CV
+  * Desain jaket
 - Desain Social Media
